@@ -1,5 +1,5 @@
 # VisaDatesNotifier
-Automation Script to create email alarm when VAC dates available US Visa.
+Automation Script to create email alarm when VAC dates available US Visa. It helps look for consulor visa dates .
 
 ## How to Set UP Automation Script
 
