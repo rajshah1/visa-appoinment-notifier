@@ -1,0 +1,20 @@
+{
+  "name": "visaDatesNotifier",
+  "version": "1.0.0",
+  "main": "testdel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajshah1/visaDatesNotifier.git"
+  },
+  "keywords": [],
+  "author": "raj shah <shahraj121997@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajshah1/visaDatesNotifier/issues"
+  },
+  "homepage": "https://github.com/rajshah1/visaDatesNotifier#readme",
+  "description": ""
+}
