@@ -19,7 +19,7 @@ Automation Script to create email alarm when VAC dates available US Visa. It hel
 How this code will run when you run the node script with node tester.js 
 dummy mail and password will be entered automatically .Then cursor will go to captcha where for first login 
 user has to enter the captcha in box in 6s .Then script will automatically login if cred are correct then every 1 min browser will be 
-refershed automatically and if BB (Blue Box is available with Counselor Dates ) available it will Shoot email with avilable dates.
+refershed automatically and if BB (Blue Box is available with Counselor Dates ) available it will Shoot email with available dates.
 
 
 ### Author: Raj Shah
